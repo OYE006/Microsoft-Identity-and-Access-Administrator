@@ -1,6 +1,6 @@
-# Microsoft-Identity-and-Access-Administrator
-# Step by step on how to create and manage users
-# Managing user roles
+# Microsoft-Identity-and-Access-Administrator.
+# Step by step on how to create and manage users.
+# Managing user roles.
 
 Navigating to the Microsoft Entra ID dashboard
 <img width="980" height="619" alt="Navigating to the dashboard" src="https://github.com/user-attachments/assets/a7724f1f-affb-4d18-8698-20dd319909c5" />
